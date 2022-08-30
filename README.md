@@ -52,7 +52,5 @@ I am a Software Developer from Kenya. <br>
 ### :fire: My Stats :
 
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=DenisMariga" alt="DenisMariga" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DenisMariga&" alt="DenisMariga" /></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DenisMariga&theme=dark)](https://git.io/streak-stats)
 <br>
