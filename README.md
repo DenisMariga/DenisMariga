@@ -17,7 +17,7 @@
 ---
 <h2 align="left">:man_technologist: About Me :</h2>
 I am a Software Developer from Kenya. <br>
-- :telescope: I’m learning to be a Software Engineer focused more on Java and Microservices.I also contribute to frontend and backend for building web applications.
+- :telescope: I’m learning to be a Software Engineer focused more on Java Stacks and Microservices.I also contribute to frontend and backend for building web applications.
 
 - :seedling: Exploring Cloud Development.
 
