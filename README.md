@@ -16,7 +16,7 @@
 
 ---
 <h2 align="left">:man_technologist: About Me :</h2>
-I am a Software Developer from Kenya  open to Jobs
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m learning to be a Software Engineer focused more on Java and Microservices.I also contribute to frontend and backend for building web applications.
 
 - :seedling: Exploring Cloud Development.
