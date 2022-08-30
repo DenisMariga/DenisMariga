@@ -16,3 +16,12 @@
 
 ---
 <h2 align="left">:man_technologist: About Me :</h2>
+I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
+- :telescope: I’m learning to be a Software Engineer focused more on Java and Microservices.I also contribute to frontend and backend for building web applications.
+
+- :seedling: Exploring Cloud Development.
+
+- :zap: In my free time, I solve problems on LeetCode and read tech articles mainly at Medium.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/denis-kamara-a034b71a3/))
+
