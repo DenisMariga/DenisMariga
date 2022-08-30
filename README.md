@@ -12,5 +12,5 @@
   <h3> 💻 Denis Mariga | 💻 Software Engineer, Cloud Developer | 🇰🇪 Nairobi, Kenya</h3>
 </div>
 <div align="right">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="250" width="375"/>
 </div>
