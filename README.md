@@ -8,3 +8,6 @@
   <a href="https://twitter.com/DenisMariga50">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 </div>
+ <div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 💻 Denis Mariga | 💻 Software Engineer, Cloud Developer | 🇰🇪 Nairobi, Kenya <iframe src="https://giphy.com/embed/EOmYN5kVP3W2Lyn6dx" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/CGBOT-mood-computer-devbot-EOmYN5kVP3W2Lyn6dx">via GIPHY</a></p>
+</div>
