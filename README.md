@@ -18,7 +18,7 @@
 <h2 align="left">:man_technologist: About Me :</h2>
 I am a Software Developer from Kenya. <br>
 
-- :telescope: I’m learning to be a Software Engineer focused more on Java Stacks and Microservices.I also contribute to frontend and backend for building web applications.
+- :telescope:Hi there! I'm a Java developer with experience building web applications using Spring Boot. I enjoy tackling complex programming challenges and building scalable, robust systems. I'm passionate about staying up-to-date with the latest trends and technologies in software development, and I'm always looking for new opportunities to learn and grow. When I'm not coding, you can find me hiking, reading, or tinkering with my Raspberry Pi projects. .
 
 - :seedling: Exploring Cloud Development.
 
